@@ -91,7 +91,7 @@ The testing notebook also compares actual and predicted prices for sample vehicl
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Kakkooo02/DataSci.git
+git clone https://github.com/Kakkooo02/Machine-Learning-Project.git
 cd DataSci
 ```
 
@@ -138,7 +138,6 @@ Through this project, I practiced:
 * Preparing numerical and categorical features
 * Using one-hot encoding and scaling
 * Building a neural network regression model
-* Saving and loading trained models
 * Testing machine learning models on unseen data
 * Evaluating predictions using Mean Absolute Error
 
@@ -149,9 +148,7 @@ Through this project, I practiced:
 * Compare the neural network against models such as Random Forest, XGBoost, or Linear Regression
 * Add more visualizations for model performance
 * Use cross-validation
-* Add a Streamlit app for interactive price prediction
-* Improve documentation of the dataset source and feature meanings
 
 ## Author
 
-Created by [Kakkooo02](https://github.com/Kakkooo02)
+Created by Kakkooo0
