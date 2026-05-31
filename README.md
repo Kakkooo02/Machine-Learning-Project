@@ -43,17 +43,6 @@ The project follows a complete machine learning workflow:
 | Model type           | Neural network regression  |
 | Model persistence    | Pickle, Keras model saving |
 
-## Repository Structure
-
-```text
-DataSci/
-├── used_car_price_prediction.ipynb
-├── model_testing_unseen_data.ipynb
-├── draft_final_project.ipynb
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
 
 ## Project Workflow
 
